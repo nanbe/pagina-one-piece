@@ -1,0 +1,151 @@
+body {
+    background-color: skyblue;
+    width: 100%;
+}
+
+
+.main {
+    background-color: skyblue;
+    height: 180px;
+}
+
+h1 {
+    text-align: center;
+    font-size: 90px;
+    font-family: 'Pacifico', cursive;
+    color: whitesmoke;
+    font-style: italic;
+    margin: 0px;
+    width: auto;
+}
+
+.options {
+    background-color: dimgray;
+    width: auto;
+    height: 50px;
+}
+
+ul {
+    list-style-type: none;
+    margin: 0px;
+    padding: 0px;
+    overflow: hidden;
+}
+
+ul li {
+    width: 100px;
+    float: left;
+    text-align: center;
+    color: aliceblue;   
+    font-size: 15px;
+    font-family: 'Oswald', sans-serif;
+    display: block;
+    padding: 16px 50px;
+    border-right: 1px solid #bbb;
+}
+
+li:hover {
+    background-color: #555;
+}
+
+
+.aotorretrato {
+    background-color: azure;
+    margin-top: 50px;
+    width: 1264px;
+    height: 500px;
+}
+
+img {
+    background-repeat: no-repeat;
+    background-position: center;
+}
+
+.personaje_p {
+    margin-top: 15px;
+    margin-left: 25px;
+}
+
+.biografia {
+    width: 300px;
+    height: 200px;
+    text-align: left;
+    padding-top: 15px;
+    margin-left: 0px;
+}
+
+h2 {
+    text-align: center;
+    padding-top: 10px;
+}
+
+.contenedor {
+    width: 350px;
+    height: 465px;
+    background-color: skyblue;
+    float: left;  
+    margin-left: 20px;
+}
+
+.contenedor_padre {
+    width: 1264px;
+    height: 510px;
+    background-color: azure;
+    padding-top: 40px;
+    margin-top: 20px;
+}
+
+.contacto {
+    background-color: azure;
+    width: 1264px;
+    height: 300px;
+    margin-top: 20px;
+}
+
+.mangas {
+    width: 300px;
+    height: 300px;
+    background-color: transparent;
+    float: left;
+}
+
+.img-mangas {
+    margin-top: 50px;
+    margin-left: 50px;
+    float: left;
+}
+
+h3 {
+    font-family: 'Anton', sans-serif;
+    float: left;
+    margin-top: 10px;
+    margin-left: 400px;
+    margin-bottom: 0px;
+    font-size: 65px;
+    justify-content: center;
+}
+
+.historia {
+    float: left;
+    width: 700px;
+    height: 200px;
+    font-size: 17px;
+    font-style: italic;
+    text-align: center;
+    margin-left: 130px;
+    margin-top: 30px;
+}
+
+.mangas-historia {
+    background-color: transparent;
+    width: 964px;
+    height: 300px;
+    float: left;
+}
+
+.contactanos {
+    width: 1264px;
+    height: 200px;
+    background-color: dimgray;
+    margin-top: 20px;
+}
